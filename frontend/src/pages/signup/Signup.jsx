@@ -20,7 +20,7 @@ const SignUp = () => {
   return (
     <div className='card flex flex-col items-center justify-center min-w-96 mx-auto bg-base-100'>
         <div className=' w-full p-6 rounded-lg shadow-md bg-clip-padding backdrop-filter '>
-            <h1 className='text-3xl font-semibold text-center text-white-300'>Login
+            <h1 className='text-3xl font-semibold text-center text-white-300'>Sign Up
                 <span className='text-primary'> Chat App</span>
             </h1>
         
