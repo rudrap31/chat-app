@@ -2,7 +2,8 @@
 
 ## Description  
 This is a chat application built using MongoDB, Express.js, React, Node.js and Socket.io. Users can create accounts, login and message others in real time. The frontend is styled using Tailwind CSS and DaisyUI. \
-**https://chat-app-n3i3.onrender.com**
+https://chat-app-n3i3.onrender.com
+
 ---
 
 ## Image  
