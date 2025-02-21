@@ -23,7 +23,7 @@ export const signup = async (req, res) => {
 
         const firstName = fullName.split(" ")[0];
         const lastName = fullName.split(" ")[1];
-        const profilePic = `https://avatar.iran.liara.run/username?username=[${firstName}+${lastName}]`
+        const profilePic = `https://avatar.iran.liara.run/username?username=${firstName}+${lastName}`
         
         
         const newUser = new User({
