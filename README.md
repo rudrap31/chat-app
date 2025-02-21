@@ -6,7 +6,7 @@ This is a chat application built using MongoDB, Express.js, React, Node.js and S
 ---
 
 ## Image  
-(Need to add Image)
+![Chat Screenshot](./chat-screenshot.png)
 
 ---
 
